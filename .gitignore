@@ -1,0 +1,14 @@
+# User-specific stuff:
+**/.idea/**
+**/lib/**
+**/*.iml
+**/*.pdf
+**/*.jpeg
+**/*.jpg
+**/*.tiff
+**/*.tif
+**/*.txt
+**/*.log
+
+# Maven build files
+**/target/**
