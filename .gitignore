@@ -9,6 +9,7 @@
 **/*.tif
 **/*.txt
 **/*.log
+**/out/**
 
 # Maven build files
 **/target/**
